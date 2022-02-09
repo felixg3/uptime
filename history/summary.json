@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 387,
-    "timeDay": 387,
-    "timeWeek": 387,
-    "timeMonth": 387,
-    "timeYear": 387,
+    "time": 478,
+    "timeDay": 478,
+    "timeWeek": 478,
+    "timeMonth": 478,
+    "timeYear": 478,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1306,
-    "timeDay": 1306,
-    "timeWeek": 1306,
-    "timeMonth": 1306,
-    "timeYear": 1306,
+    "time": 1369,
+    "timeDay": 1369,
+    "timeWeek": 1369,
+    "timeMonth": 1369,
+    "timeYear": 1369,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Crossings",
-    "url": "https://crossings-cemis.org",
-    "icon": "https://favicons.githubusercontent.com/crossings-cemis.org",
-    "slug": "crossings",
-    "status": "down",
-    "uptime": "6.92%",
-    "uptimeDay": "6.92%",
-    "uptimeWeek": "6.92%",
-    "uptimeMonth": "6.92%",
-    "uptimeYear": "6.92%",
-    "time": 43,
-    "timeDay": 43,
-    "timeWeek": 43,
-    "timeMonth": 43,
-    "timeYear": 43,
-    "dailyMinutesDown": {
-      "2022-02-09": 0
-    }
   }
 ]
