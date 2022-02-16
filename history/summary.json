@@ -22,17 +22,19 @@
     "url": "https://server.giessmann.net",
     "icon": "https://favicons.githubusercontent.com/server.giessmann.net",
     "slug": "webserver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1290,
-    "timeDay": 1022,
-    "timeWeek": 1290,
-    "timeMonth": 1290,
-    "timeYear": 1290,
-    "dailyMinutesDown": {}
+    "time": 1179,
+    "timeDay": 545,
+    "timeWeek": 1179,
+    "timeMonth": 1179,
+    "timeYear": 1179,
+    "dailyMinutesDown": {
+      "2022-02-16": 0
+    }
   }
 ]
