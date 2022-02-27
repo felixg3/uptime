@@ -4,35 +4,39 @@
     "url": "https://giessmann.net",
     "icon": "https://favicons.githubusercontent.com/giessmann.net",
     "slug": "personal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 511,
-    "timeDay": 575,
-    "timeWeek": 548,
-    "timeMonth": 511,
-    "timeYear": 511,
-    "dailyMinutesDown": {}
+    "time": 492,
+    "timeDay": 337,
+    "timeWeek": 491,
+    "timeMonth": 492,
+    "timeYear": 492,
+    "dailyMinutesDown": {
+      "2022-02-27": 0
+    }
   },
   {
     "name": "Webserver",
     "url": "https://server.giessmann.net",
     "icon": "https://favicons.githubusercontent.com/server.giessmann.net",
     "slug": "webserver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1253,
-    "timeDay": 1176,
-    "timeWeek": 1327,
-    "timeMonth": 1253,
-    "timeYear": 1253,
-    "dailyMinutesDown": {}
+    "time": 1206,
+    "timeDay": 655,
+    "timeWeek": 1178,
+    "timeMonth": 1206,
+    "timeYear": 1206,
+    "dailyMinutesDown": {
+      "2022-02-27": 0
+    }
   }
 ]
