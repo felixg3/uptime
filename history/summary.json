@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/giessmann.net",
     "slug": "personal",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 492,
-    "timeDay": 337,
-    "timeWeek": 491,
-    "timeMonth": 492,
-    "timeYear": 492,
+    "uptime": "98.60%",
+    "uptimeDay": "74.24%",
+    "uptimeWeek": "96.32%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "98.60%",
+    "time": 476,
+    "timeDay": 109,
+    "timeWeek": 435,
+    "timeMonth": 476,
+    "timeYear": 476,
     "dailyMinutesDown": {
-      "2022-02-27": 0
+      "2022-02-28": 53,
+      "2022-02-27": 318
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/server.giessmann.net",
     "slug": "webserver",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1206,
-    "timeDay": 655,
-    "timeWeek": 1178,
-    "timeMonth": 1206,
-    "timeYear": 1206,
+    "uptime": "98.60%",
+    "uptimeDay": "74.25%",
+    "uptimeWeek": "96.32%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "98.60%",
+    "time": 1161,
+    "timeDay": 100,
+    "timeWeek": 1025,
+    "timeMonth": 1161,
+    "timeYear": 1161,
     "dailyMinutesDown": {
-      "2022-02-27": 0
+      "2022-02-28": 53,
+      "2022-02-27": 318
     }
   }
 ]
